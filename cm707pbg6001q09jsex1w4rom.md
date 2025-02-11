@@ -1,8 +1,13 @@
 ---
 title: "송파구, 석촌호수서 내셔널지오그래픽 멸종 위기 동물 사진전 개최"
+seoTitle: "송파구, 석촌호수서 내셔널지오그래픽 멸종 위기 동물 사진전 개최"
+seoDescription: "송파구가 석촌호수 산책로를 예술의 공간으로 탈바꿈시키고 있다. 오는 2월 4일부터 3월 말까지 'Lake Bridge Gallery(호수교갤러리)'에서 내셔널지오그래픽 전속 사진작가 조엘 사토리의 특별전 <포토 아크>가 열린다."
 datePublished: Tue Feb 04 2025 23:34:52 GMT+0000 (Coordinated Universal Time)
 cuid: cm707pbg6001q09jsex1w4rom
 slug: 6972
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265329884/df78c6de-e1ae-4e50-af9a-afb594e38b67.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265348611/5e528ba2-6d1b-40a9-bfcd-bbb022b2dcd1.webp
+tags: 7kce7iuc7zqm, 7isc7jq4, 7iah7yym6rws
 
 ---
 
