@@ -1,8 +1,13 @@
 ---
 title: "굽네 듀먼, 2025 케이펫페어 대전 첫 참가"
+seoTitle: "굽네 듀먼, 2025 케이펫페어 대전 첫 참가"
+seoDescription: "반려견 화식 브랜드 듀먼(D'human)이 '2025 케이펫페어 대전'에 처음으로 참가한다. 2월 7일부터 9일까지 대전 컨벤션 센터에서 열리는 이번 행사에서 듀먼은 다양한 할인 혜택과 이벤트를 준비했다."
 datePublished: Fri Feb 07 2025 18:00:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm707qn0r002409kz2cgrcor9
 slug: 6977
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739264982053/0f091254-51f1-44bd-8a88-d97610f8fa0f.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265018969/15f81fb9-9b4f-4027-b0cc-dcf43f560efe.webp
+tags: 7y6r7zg465oc, 67cv656m7zqm, 64ya7kce, 7lap7lkt
 
 ---
 
