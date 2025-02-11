@@ -1,8 +1,13 @@
 ---
 title: "고양이 집사의 마지막 선물, 반려묘 사후 돌봄 가이드북 베스트셀러 등극"
+seoTitle: "고양이 집사의 마지막 선물, 반려묘 사후 돌봄 가이드북 베스트셀러 등극"
+seoDescription: "일본에서 반려동물 사후 돌봄에 대한 관심이 높아지고 있는 가운데, 『내가 죽은 후에도 사랑하는 고양이를 지키는 책』이 출간되어 화제를 모으고 있다. 이 책은 2025년 2월 4일 발매 직후 아마존 10개 부문 베스트셀러 1위를 차지하며 반려인들의 뜨거운 호응을 얻고 있다."
 datePublished: Wed Feb 05 2025 00:44:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm707qear001w0ajp4uvd5fln
 slug: 6975
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265113149/3edfda8c-f669-40d1-b9db-3830b341f1b0.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265135253/23466c91-a9a3-43c7-ac94-8c6c42a87e34.webp
+tags: 7lgf, 7j2867o4
 
 ---
 
