@@ -1,8 +1,13 @@
 ---
-title: "BD&J 마이클 마다디 변호사, 개 물림 사고 등 다양한 상해 소송 전문성 인정받아"
+title: "Bd&j 마이클 마다디 변호사, 개 물림 사고 등 다양한 상해 소송 전문성 인정받아"
+seoTitle: "BD&J 마이클 마다디 변호사, 개 물림 사고 등 다양한 상해 소송 전문성 인정받아"
+seoDescription: "로스앤젤레스 소재 개인상해 전문 로펌 BD&J의 마이클 마다디 변호사가 2025년 2월호 포브스와 포춘 매거진에 소개됐다. 인쇄본과 디지털 버전으로 제공되는 이번 인터뷰에서 마다디 변호사는 BD&J의 강점으로 균형 잡힌 팀워크와 고객 중심 서비스를 강조했다."
 datePublished: Tue Feb 04 2025 23:51:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm707pfwx001r09js9yuwg814
 slug: 6973
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265243901/0eb67cba-ed6b-4505-9828-2f00b6873f56.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265260332/0c7b1cc4-58e8-4790-a07a-df1a456b9945.webp
+tags: 6646rwt, 64z66y867kv
 
 ---
 
