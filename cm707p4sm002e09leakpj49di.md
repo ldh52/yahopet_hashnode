@@ -1,8 +1,13 @@
 ---
 title: "경기북부 대개조 프로젝트, 4개 시군에 반려동물 맞춤형 여가시설 조성"
+seoTitle: "경기북부 대개조 프로젝트, 4개 시군에 반려동물 맞춤형 여가시설 조성"
+seoDescription: "경기도가 '경기북부 대개조 프로젝트 사업'의 일환으로 반려동물과 함께 즐길 수 있는 지역특화형 여가시설을 조성한다. 선정된 지역은 파주시 문산읍, 양주시 광적면, 포천시 이동면, 가평군 북면이다."
 datePublished: Tue Feb 04 2025 21:17:50 GMT+0000 (Coordinated Universal Time)
 cuid: cm707p4sm002e09leakpj49di
 slug: 6970
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265437169/f88d3b30-ba64-4e38-80ce-7499a7c822bd.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265443924/f87b3cce-d2a7-4bd0-a975-efde66f8d740.webp
+tags: 7jwg6rks64z67cy7jes7zaj, 6rk96riw64e, 7jwg6rks7lqg7zwr
 
 ---
 
