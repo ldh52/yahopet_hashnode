@@ -1,8 +1,13 @@
 ---
 title: "2024 반려동물 관련 학과 리포트, 신설 전공부터 글로벌 네트워크까지"
+seoTitle: "2024 반려동물 관련 학과 리포트, 신설 전공부터 글로벌 네트워크까지"
+seoDescription: "국내 대학들이 반려동물 산업의 성장에 발맞춰 전문 인력 양성을 위한 교육 과정을 확대하고 있다. 2024년 주요 대학들의 신규 학과 개설, 산업체 협력, 교육 프로그램을 분석한 결과, 다음과 같은 주요 동향이 확인되었다."
 datePublished: Tue Feb 04 2025 14:23:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm707orpi003g09jobnto0wxg
 slug: 6965
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265632057/cb1d3f3c-e568-447a-99c3-5bfeb023125c.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265638054/29b3d445-6763-4d1c-8b09-01e42fe467ad.webp
+tags: 64ya7zwz, 7zwz6ro8
 
 ---
 
