@@ -1,8 +1,13 @@
 ---
 title: "털복숭이 친구들의 매력 탐구... 동물 주연 영화 20편 소개"
+seoTitle: "털복숭이 친구들의 매력 탐구... 동물 주연 영화 20편 소개"
+seoDescription: "평점, 흥행, 작품성을 종합적으로 고려하여 선정한 동물 주연 인기 영화 20선을 소개한다. 각 영화의 간단한 줄거리와 특징, 그리고 검증된 주요 수치를 함께 제시한다."
 datePublished: Fri Feb 07 2025 17:46:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm707qibw002l09l7c75cdsxy
 slug: 6976
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265061856/047abed2-fc0f-4a7d-a33e-4684a58dcc35.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265077157/3c2bfc60-fad5-4660-8d2e-1ca35b291dd5.webp
+tags: 64z66y87jib7zmu
 
 ---
 
