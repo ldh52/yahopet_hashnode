@@ -1,7 +1,7 @@
 ---
 title: "사이트 이전합니다."
 seoTitle: "사이트 이전합니다."
-seoDescription: "티스토리에서 해시노드로 사이트를 이전합니다. 많은 시행착오 끝에 오늘 드디어 이곳 해시노드에 터를 잡는군요. "
+seoDescription: "티스토리에서 해시노드로 사이트를 이전합니다. 많은 시행착오 끝에 오늘 드디어 이곳 해시노드에 터를 잡는군요."
 datePublished: Tue Feb 11 2025 03:50:41 GMT+0000 (Coordinated Universal Time)
 cuid: cm6zy2g2t000w09jo7wxohv14
 slug: we-are-moving-the-site
