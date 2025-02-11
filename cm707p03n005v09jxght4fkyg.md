@@ -1,8 +1,13 @@
 ---
 title: "익산·경주, 2025년 반려동물 친화관광도시에 선정"
+seoTitle: "익산·경주, 2025년 반려동물 친화관광도시에 선정"
+seoDescription: "문화체육관광부와 한국관광공사가 2025년 '반려동물 친화관광도시'로 전북 익산시와 경북 경주시를 선정했다. 이로써 반려동물과 함께 여행하기 좋은 도시는 총 6곳으로 늘어났다."
 datePublished: Tue Feb 04 2025 20:55:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm707p03n005v09jxght4fkyg
 slug: 6967
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265502205/c0119a42-9182-44cf-8414-37c48da0260e.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265510087/acb38c6e-5203-4cbd-a90f-672ef8b7fecd.webp
+tags: 6rk97ko8, 7j217ikw
 
 ---
 
