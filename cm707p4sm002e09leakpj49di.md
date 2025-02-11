@@ -5,7 +5,7 @@ seoDescription: "경기도가 '경기북부 대개조 프로젝트 사업'의 �
 datePublished: Tue Feb 04 2025 21:17:50 GMT+0000 (Coordinated Universal Time)
 cuid: cm707p4sm002e09leakpj49di
 slug: 6970
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265437169/f88d3b30-ba64-4e38-80ce-7499a7c822bd.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TcgASSD5G04/upload/b06b836ae3cb0a42c92ac77c15b2be04.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265443924/f87b3cce-d2a7-4bd0-a975-efde66f8d740.webp
 tags: 7jwg6rks64z67cy7jes7zaj, 6rk96riw64e, 7jwg6rks7lqg7zwr
 
