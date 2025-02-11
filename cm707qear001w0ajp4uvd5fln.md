@@ -5,7 +5,7 @@ seoDescription: "일본에서 반려동물 사후 돌봄에 대한 관심이 높
 datePublished: Wed Feb 05 2025 00:44:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm707qear001w0ajp4uvd5fln
 slug: 6975
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265113149/3edfda8c-f669-40d1-b9db-3830b341f1b0.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IbPxGLgJiMI/upload/bae7e0be40ccc03db7b926a8f6d382a1.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739265135253/23466c91-a9a3-43c7-ac94-8c6c42a87e34.webp
 tags: 7lgf, 7j2867o4
 
