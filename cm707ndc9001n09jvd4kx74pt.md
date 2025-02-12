@@ -1,8 +1,13 @@
 ---
 title: "대기업 4사, 첨단 기술로 펫케어 시장 공략 가속화"
+seoTitle: "대기업 4사, 첨단 기술로 펫케어 시장 공략 가속화"
+seoDescription: "국내 대기업들이 첨단 기술을 활용해 반려동물 산업에 본격적으로 진출하며 시장 재편을 주도하고 있다. LG유플러스, 삼성전자, SK텔레콤, 현대백화점그룹이 각각 차별화된 전략으로 펫케어 분야를 공략 중이다."
 datePublished: Sun Feb 02 2025 21:37:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm707ndc9001n09jvd4kx74pt
 slug: 6953
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375653533/3cde2ac9-0909-45f6-b279-eb2501c193b3.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375688484/cd57348e-9a40-4c82-ae70-255869f5894a.webp
+tags: ai, 64z66y867or7juq
 
 ---
 
