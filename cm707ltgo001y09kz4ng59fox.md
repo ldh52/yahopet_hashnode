@@ -1,8 +1,13 @@
 ---
-title: "MOGU, 반려견 인형 쿠션 앉은 래브라도 출시"
+title: "Mogu, 반려견 인형 쿠션 앉은 래브라도 출시"
+seoTitle: "MOGU, 반려견 인형 쿠션 앉은 래브라도 출시"
+seoDescription: "MOGU(모구)가 반려견을 키우지 못하는 사람들을 위한 래브라도 리트리버 인형 쿠션 '앉은 래브라도'를 출시했다. 이 제품은 2013년 단종된 후 많은 요청으로 재출시되었다."
 datePublished: Sat Feb 01 2025 00:42:36 GMT+0000 (Coordinated Universal Time)
 cuid: cm707ltgo001y09kz4ng59fox
 slug: 6945
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739376268020/59dbdca7-0770-4cf6-8845-b6caa30be168.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739376285690/4f454ace-7540-403c-9511-9b733d2703c0.webp
+tags: 7j2867o4
 
 ---
 
