@@ -1,8 +1,13 @@
 ---
 title: "네슬레 퓨리나, 퓨리나 멤버십 라운지 오픈 기념 네이버 쇼핑 라이브 진행"
+seoTitle: "네슬레 퓨리나, 퓨리나 멤버십 라운지 오픈 기념 네이버 쇼핑 라이브 진행"
+seoDescription: "세계적인 반려동물 식품 전문 기업 네슬레 퓨리나가 '퓨리나 멤버십 라운지' 오픈을 기념해 네이버 쇼핑 라이브를 진행한다고 밝혔다."
 datePublished: Mon Feb 03 2025 15:14:02 GMT+0000 (Coordinated Universal Time)
 cuid: cm707nlka005s09jx439xb6gz
 slug: 6955
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nR-5iAd5eJU/upload/192be3ae1e5a9b31881cca3c755a6dbc.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375540004/fc333f3c-964a-4c07-b8f3-5bb23d8a720d.webp
+tags: 7y6r7zg465oc
 
 ---
 
