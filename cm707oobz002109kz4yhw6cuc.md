@@ -1,8 +1,13 @@
 ---
 title: "알아두면 쓸모있는 반려동물 사료 라벨 읽는 법"
+seoTitle: "알아두면 쓸모있는 반려동물 사료 라벨 읽는 법"
+seoDescription: "반려동물 사료의 라벨은 제품의 성분과 영양 정보를 알려주는 중요한 지표다. 올바른 이해를 위해 반드시 확인해야 할 5가지 핵심 포인트를 정리했다."
 datePublished: Tue Feb 04 2025 12:29:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm707oobz002109kz4yhw6cuc
 slug: 6964
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739373707821/aa4806a7-51e6-477a-bb74-b7c028535186.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739373739560/f86a721d-1097-4443-8963-2100c0ef3921.webp
+tags: 7iks66om, 7y6r7zg465oc
 
 ---
 
