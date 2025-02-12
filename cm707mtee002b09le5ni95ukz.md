@@ -1,8 +1,13 @@
 ---
-title: "재즈웨어스, 혁신적인 블록 완구 브랜드 BLDR 출시"
+title: "재즈웨어스, 혁신적인 블록 완구 브랜드 Bldr 출시"
+seoTitle: "재즈웨어스, 혁신적인 블록 완구 브랜드 BLDR 출시"
+seoDescription: "글로벌 완구 기업 재즈웨어스(Jazwares)가 새로운 블록 완구 브랜드 'BLDR'을 1월 말에 출시한다고 발표했다. BLDR은 세계적으로 유명한 브랜드들과 협업하여 몰입감 있는 플레이세트와 고관절 액션 피규어를 선보일 예정이다."
 datePublished: Sat Feb 01 2025 02:19:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm707mtee002b09le5ni95ukz
 slug: 6949
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375901573/63c92a90-7631-48c0-a531-215b46e64abb.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375932325/4dc5727c-9a2a-4002-b7e5-aae80c533a31.webp
+tags: 7lqq66at7ysw
 
 ---
 
