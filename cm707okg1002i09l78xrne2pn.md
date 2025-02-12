@@ -1,8 +1,13 @@
 ---
-title: "펫푸드 시장의 숨은 강자들, ODM/OEM 기업 소개"
+title: "펫푸드 시장의 숨은 강자들, Odm/oem 기업 소개"
+seoTitle: "펫푸드 시장의 숨은 강자들, ODM/OEM 기업 소개"
+seoDescription: "반려동물 시장의 성장에 따라 국내 ODM(Original Development Manufacturing)·OEM(Original Equipment Manufacturing) 기업들이 기술력과 품질 경쟁력을 강화하고 있다."
 datePublished: Tue Feb 04 2025 08:45:49 GMT+0000 (Coordinated Universal Time)
 cuid: cm707okg1002i09l78xrne2pn
 slug: 6963
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739373775475/44a1ddd1-efca-4777-9391-9fd41fde2e52.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739373788977/840bca56-1e8c-43c4-be24-fc850c2a56a1.webp
+tags: 7y6r7zg465oc
 
 ---
 
