@@ -1,8 +1,13 @@
 ---
 title: "삼척시, 폐광지역에 도계 펫 패밀리파크 조성 추진"
+seoTitle: "삼척시, 폐광지역에 도계 펫 패밀리파크 조성 추진"
+seoDescription: "삼척시가 폐광지역인 도계읍에 반려동물 테마파크 '도계 펫 패밀리파크' 조성을 추진 중이다. 이 사업은 2027년 상반기 개장을 목표로 하고 있으며, 지역 경제 활성화와 관광산업 전환을 위한 핵심 프로젝트로 주목받고 있다."
 datePublished: Sun Feb 02 2025 11:01:16 GMT+0000 (Coordinated Universal Time)
 cuid: cm707n5uj003b09job17l9vfr
 slug: 6951
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375770870/612f9522-d3f1-470c-ab5e-0147ac135b2c.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739375791340/418c6e9d-769a-4c30-b50e-8fef052af36c.webp
+tags: 7ik87lkz, 6rcv7juq64e
 
 ---
 
