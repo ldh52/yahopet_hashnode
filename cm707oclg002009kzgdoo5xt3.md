@@ -1,8 +1,13 @@
 ---
 title: "겨울철 반려견과 함께하는 해변 여행 추천지"
+seoTitle: "겨울철 반려견과 함께하는 해변 여행 추천지"
+seoDescription: "반려동물 인구의 증가로 겨울철에도 반려견과 해변을 찾는 이들이 늘고 있다. 2025년 기준, 공식적으로 반려견 입장을 허용하는 해수욕장들이 특색 있는 서비스를 선보이고 있어 주목된다. 본 기사에서는 겨울철 반려견 동반이 가능한 해수욕장 4곳을 소개한다."
 datePublished: Mon Feb 03 2025 18:22:20 GMT+0000 (Coordinated Universal Time)
 cuid: cm707oclg002009kzgdoo5xt3
 slug: 6961
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/lQBimzdHpho/upload/c6249b26ec2bd017b1b287ba8db70107.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739373957621/1adb2c88-7caf-4e98-90c1-41aa94d78424.webp
+tags: 7jwg6rks64z67cy7jes7zaj
 
 ---
 
