@@ -1,8 +1,13 @@
 ---
 title: "지위픽 등 뉴질랜드 프리미엄 펫푸드 8대 브랜드 소개"
+seoTitle: "지위픽 등 뉴질랜드 프리미엄 펫푸드 8대 브랜드 소개"
+seoDescription: "지위픽은 2002년 뉴질랜드 마웅가누이에서 설립되어 에어드라이 공법으로 유명하다. 96% 이상 육류를 함유한 PEAKPREY™ 레시피와 그레인프리, GMO 프리 원칙을 고수한다. HACCP과 NZFSA 인증을 받았으며, 호크스베이의 자체 공장은 ISO 22000 인증을 획득했다."
 datePublished: Mon Feb 03 2025 16:31:49 GMT+0000 (Coordinated Universal Time)
 cuid: cm707o52v003d09jo4rjw1dtf
 slug: 6959
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739374059251/8e8c2ca1-ec7e-4391-ad8f-35663abfe732.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739374078766/e2518099-95bc-4eea-a527-9335735a7f62.webp
+tags: 7y6r7zg465oc, 64m07kei656c65oc
 
 ---
 
