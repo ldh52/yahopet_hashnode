@@ -1,15 +1,19 @@
 ---
 title: "일본 펫츠퍼스트, 브리더 대상 왕진 사업 강화"
+seoTitle: "일본 펫츠퍼스트, 브리더 대상 왕진 사업 강화"
+seoDescription: "펫츠퍼스트 홀딩스 주식회사가 브리더를 위한 왕진 사업을 확대하며 반려동물의 건강 관리와 동물보호법 준수를 촉진하고 있다. 이 회사는 "Pets always come first"를 이념으로 내세우며 적절한 동물 관리와 질병 예방에 힘쓰고 있다."
 datePublished: Sat Feb 01 2025 00:29:15 GMT+0000 (Coordinated Universal Time)
 cuid: cm707le30001l09js9zqkenwa
 slug: 6944
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739376369208/554ab8a9-6c97-4ff9-a3e6-027230dbe77a.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739376382810/4a9596f5-e91a-487f-ac70-c1937a51915f.webp
+tags: 7iiy7j2y7iks, 7j2867o4, 67im66as642u
 
 ---
 
-
 펫츠퍼스트, 브리더 대상 왕진 사업 강화
 
-![이미지](https://cdn.hashnode.com/res/hashnode/image/upload/v1739261836553/2f34fdbe-0417-4c16-8d7b-e9d98ebf22ba.jpeg)
+![이미지](https://cdn.hashnode.com/res/hashnode/image/upload/v1739261836553/2f34fdbe-0417-4c16-8d7b-e9d98ebf22ba.jpeg align="left")
 
 펫츠퍼스트 홀딩스 주식회사가 브리더를 위한 왕진 사업을 확대하며 반려동물의 건강 관리와 동물보호법 준수를 촉진하고 있다. 이 회사는 "Pets always come first"를 이념으로 내세우며 적절한 동물 관리와 질병 예방에 힘쓰고 있다.
 
@@ -23,14 +27,18 @@ slug: 6944
 
 4명의 수의사 배치, 총 700건의 브리더에게 서비스 제공
 
-![이미지](https://cdn.hashnode.com/res/hashnode/image/upload/v1739261839231/5b35345b-2d57-40eb-a536-afa23f7b98e3.png)
+![이미지](https://cdn.hashnode.com/res/hashnode/image/upload/v1739261839231/5b35345b-2d57-40eb-a536-afa23f7b98e3.png align="center")
 
 ### 왕진 서비스의 특징
 
-- 왕진료 및 교통비 무료
-- 1마리부터 대응
-- 건강 검진, 백신 접종, 마이크로칩 삽입 등 다양한 서비스 제공
-- 환경 관리에 대한 조언도 실시
+* 왕진료 및 교통비 무료
+    
+* 1마리부터 대응
+    
+* 건강 검진, 백신 접종, 마이크로칩 삽입 등 다양한 서비스 제공
+    
+* 환경 관리에 대한 조언도 실시
+    
 
 ### 사업 확대
 
