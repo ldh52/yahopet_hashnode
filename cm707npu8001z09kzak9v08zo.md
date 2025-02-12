@@ -1,8 +1,13 @@
 ---
 title: "녹십자수의약품, 반려동물 치은염 치료제 인터베리-알파 출시"
+seoTitle: "녹십자수의약품, 반려동물 치은염 치료제 인터베리-알파 출시"
+seoDescription: "녹십자수의약품이 세계 최초의 반려동물 치은염 치료제 '인터베리-알파'를 3일 국내 정식 출시한다고 밝혔다. 이 제품은 일본 호쿠산(Hokusan Co. Ltd)에서 개발한 것으로, 개와 고양이를 위한 치은염 치료제다."
 datePublished: Mon Feb 03 2025 15:21:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm707npu8001z09kzak9v08zo
 slug: 6956
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739374245926/ba4312a1-5526-4b90-afc7-3f69c442cb65.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739374262065/97a57795-1ead-4669-b0b7-bfe1f62e1ba3.webp
+tags: 64z66y87jw97zki
 
 ---
 
