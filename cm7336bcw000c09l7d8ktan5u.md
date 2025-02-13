@@ -1,8 +1,9 @@
 ---
 title: "Lara Animal Medical Center，Lara Pet濕度霜crowd籌資金從Wadiz開始"
-datePublished: Thu Feb 13 2025 22:34:37 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Feb 12 2025 22:34:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm7336bcw000c09l7d8ktan5u
 slug: zh-tw-6978-lara-animal-medical-centerlara-petcrowdwadiz
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739437413189/f6104a51-11c8-4d8c-a454-1c05d97082df.png
 
 ---
 
