@@ -1,8 +1,9 @@
 ---
 title: "Taean -gun มูลนิธิบริการสัตว์เลี้ยงคือการฟื้นฟูการท่องเที่ยวในท้องถิ่น"
-datePublished: Thu Feb 13 2025 23:56:35 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Feb 12 2025 23:56:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm733gfdd000v09l83lqa2t0c
 slug: th-6981-taean-gun
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739437313649/bce95484-480b-4455-bcbd-d1db635fa1e1.webp
 
 ---
 
