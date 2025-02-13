@@ -1,0 +1,16 @@
+---
+title: "LG Electronics launched 'Code Zero A9S Pet ThinQ'"
+datePublished: Fri Nov 13 2020 12:49:52 GMT+0000 (Coordinated Universal Time)
+cuid: cm7312ogy002b09l25ohpggpc
+slug: en-354-lg-electronics-launched-code-zero-a9s-pet-thinq
+
+---
+
+
+LG Electronics launched A9S Pet ThinQ as Code Zero
+
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1739432286812/d6609650-3358-4992-a9ab-3b08ffcec22e.jpeg)
+
+LG Electronics launched the LG Code Zero A9S Pet ThinQ on the 13th for customers who raise pets.LG Electronics considered the increase in households that raise pets in Korea.Various features have been applied to this new product so that customers who raise pets can cleanly clean.First, a pet -only inlet is effective in removing the hair of a pet on the sofa and carpet on the fabric material.Intertek, a global test certification agency, tested that the suction port removed more than 95% of the pet hairs in the test cushion.In addition, the brush at the inlet is a rubber material, so it reduces the brush on the brush.The simple secret system compresses the pet hair in the dust barrel when the user presses the lever next to the handle.This increases the amount of hair that can be put in the dust barrel by up to twice, reducing the number of dust can be empty.This feature is also convenient for emptying the dust barrel by sweeping dust around the filter.The powerful antibacterial performance of the exhaust filter is also an advantage.As a result of the FITI Testing Research Institute, the filter inhibits 99.9% of the breeding of staphylococcus aureus, pseudonym, pneumococcal and E. coli.The new product is the Code Zero launched by LG Electronics in March.The weight is about 2.57kg, which is more than 100g less than the A9, which is a combination of the main body and the floor suction port.The thickness of the floor suction port is about 55mm, so it is easy to clean the narrow space such as the gap under the furniture.In addition, if you use two large capacity batteries that can be detached, the cleaning time is up to 120 minutes.If you connect the power drive water mop, a water -only inlet on the product, you can clean both dust and mops as you clean.The automatic water supply system keeps moisture so that the mop does not dry out, and the user can select the water supply in three stages: stops, stage 1 and 2 stages, depending on the cleaning method or floor material.The product also shows not only the time to clean the filter through the display in consideration of the vacuum cleaner consumption, but also the blockage of the inlet caused by foreign matter.After connecting this product to Wi-Fi and linking with the LG ThinQ app on the smartphone, customers can check the previous cleaning records, and use the smart diagnostic function to cause the cause and solution of the vacuum cleaner.Can.The LG Code Zero A9S Pet ThinQ's price is 1.3 million won.Ryu Jae -cheol, vice president of LG Electronics H & A Division, said, “We will lead the domestic premium wireless cleaner market with the newly launched LG Code Zero A9S Pet ThinQ, considering the various lifestyles of customers.”
+
+- Website: http://www.lge.co.kr
