@@ -1,8 +1,9 @@
 ---
 title: "寵物服務基金會Taean -Gun將振興當地旅遊業"
-datePublished: Thu Feb 13 2025 22:56:35 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Feb 12 2025 22:56:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm7336qwu000r08k73t4nekpq
 slug: zh-tw-6981-taean-gun
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739436121813/854fefe3-c0f1-4553-adec-1a1fe23496ae.webp
 
 ---
 
