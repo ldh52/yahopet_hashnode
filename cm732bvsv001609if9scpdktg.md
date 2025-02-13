@@ -1,8 +1,13 @@
 ---
-title: "KT, 반려동물 가족 위한 우리펫상조 제휴상품 출시"
-datePublished: Thu Feb 13 2025 16:46:07 GMT+0000 (Coordinated Universal Time)
+title: "Kt, 반려동물 가족 위한 우리펫상조 제휴상품 출시"
+seoTitle: "KT, 반려동물 가족 위한 우리펫상조 제휴상품 출시"
+seoDescription: "KT(대표이사 김영섭)가 반려동물의 생애주기를 고려한 장례 서비스 '우리펫상조' 제휴상품을 출시했다고 10일 밝혔다."
+datePublished: Wed Feb 12 2025 16:46:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm732bvsv001609if9scpdktg
 slug: 6980
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739435505685/06d57b94-993c-4d03-a163-ecade10adb75.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739435518992/67ae0198-278f-4297-b02a-e08c58aa9563.webp
+tags: 67cy66ck64z66y87j6l66ga
 
 ---
 
