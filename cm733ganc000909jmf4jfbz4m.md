@@ -1,8 +1,10 @@
 ---
-title: "KT เปิดตัวพันธมิตรสัตว์เลี้ยงของเราสำหรับครอบครัวสัตว์เลี้ยง"
-datePublished: Thu Feb 13 2025 23:46:07 GMT+0000 (Coordinated Universal Time)
+title: "Kt เปิดตัวพันธมิตรสัตว์เลี้ยงของเราสำหรับครอบครัวสัตว์เลี้ยง"
+datePublished: Wed Feb 12 2025 23:46:07 GMT+0000 (Coordinated Universal Time)
 cuid: cm733ganc000909jmf4jfbz4m
 slug: th-6980-kt
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739437336059/466c149c-bb44-4c7f-9da6-726a8bb538b1.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739437341449/f2005646-f2f6-4b33-b430-c98c6482c0d5.webp
 
 ---
 
