@@ -1,8 +1,13 @@
 ---
 title: "태안군, 반려동물 서비스 기반 조성으로 지역 관광 활성화 나서"
-datePublished: Thu Feb 13 2025 16:56:35 GMT+0000 (Coordinated Universal Time)
+seoTitle: "태안군, 반려동물 서비스 기반 조성으로 지역 관광 활성화 나서"
+seoDescription: "태안군은 13일 정례브리핑을 통해 지속가능한 지역 발전을 위한 3개 방향을 발표했다. 이 중 주목할 만한 사업은 '반려동물 서비스 기반 조성' 프로젝트다."
+datePublished: Wed Feb 12 2025 16:56:35 GMT+0000 (Coordinated Universal Time)
 cuid: cm732c6xs001d09lh2who3aqy
 slug: 6981
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739435557206/8983104c-bf3b-4b33-9968-b1ac381bace2.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739435572925/e11de9f5-562c-4c12-b256-f7e8e46bf718.webp
+tags: 7lap7lkt, 7yoc7jwi
 
 ---
 
