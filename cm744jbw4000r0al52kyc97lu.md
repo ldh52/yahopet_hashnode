@@ -1,0 +1,14 @@
+---
+title: "Taean -gun, “rest, meeting, ecology, and communication” Anmyeondo Waterfront Theme Park!"
+datePublished: Mon Nov 30 2020 18:52:11 GMT+0000 (Coordinated Universal Time)
+cuid: cm744jbw4000r0al52kyc97lu
+slug: en-449-taean-gun-rest-meeting-ecology-and-communication-anmyeondo-waterfront-theme-park
+
+---
+
+
+'Seung -eon 2 Reservoir Waterfront Park Hwa Project'
+
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1739498570060/d54a6520-5c18-4ea9-b308-89035ecce1f6.jpeg)
+
+Taean -gun is to avoid indiscriminate development and revitalize the local economy through a planned development that considers the surrounding landscape.The Ho Reservoir Waterfront Park and Urban Ecology Restoration Project Briefing Session were held.It was designed to share the contents with the residents and listen to various opinions on the 'Urban Ecology Restoration Project' plan to be created.It is a project to create a waterside theme park and a walk deck in Seung-eun 2 reservoir.It has proposed a basic idea of ​​space (lotus flower) that contains water and ecology (lotus flowers) and 'space where local residents (waterfront)' was presented.△ Eco -friendly hydrophilic space using natural landscapes and ecological resources △ Prevention of indiscriminate damage from the distinction between preservation and use area △ Outdown of the waterfront landscape that harmonizes nature and artificial artificiality.) 'Through' △ granting park function for the daily outdoor activities of local residents △ motivation for local residents by separating the public, private and residents' business areas △ plans to promote the local economy by developing public areas and attracting private capital.In addition, it is also called 'Residents' Kanji Space (Zhengzhou, People)', △ Introducing Differentiated facilities and original programs △ Creation of theme -type eco -tourist destinations linked to surrounding tourism resources and local festivals △In order to create a family -type ecotourism destination that is enjoyed by diversification, the military installs decks (deck roads, rest decks) around the road outside the reservoir, and plant traditional sperm and purification plants (yellow flower, flower)In the meantime, 'Seung -eon 2 Reservoir' will provide visitors with a walk and relaxed resting space, and will be able to play a role as an ecological experience and learning space.The plan for the 'Anmyeondo Waterfront Ecological Avenue Development Project', which is a waterfront ecological restoration project, which is an ecological base, and △ Wet water wetland purification △ forest restoration trailGasero said, “We expect that Anmyeondo will be able to attract attention as a new ecological space through Seung -eon 2 Reservoir Landscape Maintenance Project and Anmyeondo Watershed Movement Project.”We will do our best to promote the project so that we can be provided and become a new tourist attraction in Taean as an ecological space. ”
