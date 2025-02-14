@@ -1,0 +1,16 @@
+---
+title: "COVETRUS, a global company that provides veterinary technology and services"
+datePublished: Thu Dec 10 2020 20:52:45 GMT+0000 (Coordinated Universal Time)
+cuid: cm74libom000a09laeo8xgz4v
+slug: en-620-covetrus-a-global-company-that-provides-veterinary-technology-and-services
+
+---
+
+
+Cobetus is a world -class company that provides veterinary technology and services (Image: Cobetus homepage)
+
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1739527075367/e0f8db3f-b6e7-4917-b1e0-fb9b38dc0313.png)
+
+The 72 TSA Contract (TSA) agreement signed with all parent company Henry Schein (INC.The company announced on the 9th that the final termination of the contract was carried out more than two years after the completion of the injection.This is expected to be an important milestone to coordinate the business more smoothly in the situation where Cobetus is moving to the next stage of the three -year strategic plan.He announced that it plans to strengthen the linkage.According to the changed organizational structure, the North American sales team in Cobetus will be reorganized under one leadership to maximize account management and customer business support.In addition, as an organizational structure renewal, Cobetus' global technology solution team will be able to use resources that can focus on the company's execution of technology roadmaps.The latest software, improved e -commerce, prescription management for new regions since 2021 is a typical representative.I would like to thank Henry Shine for giving generous support in the whole process. ”"Cobetus will focus on realizing important growth opportunities based on new growth momentum and more effective links centered on customer -oriented in 2021."It will be uploaded. ”Cobetus will reduce overlaps in the business combined with a new sales structure.This resulted in about 80 employees."The decision -making that affects the members of the team is always difficult, but these measures are expected to strengthen their relationships with customers, make new investments in strategic growth initiatives and promote innovation in the industry."Truss announced on December 31, 2020 that it has signed a contract to transfer Hippocampe Caen, a French distribution division, to Coveto, a French partner.This will alleviate the obligation to pay retirement allowances related to the withdrawal plan of the project announced in October 2020.Covetrus continues its service with practical management software and exclusive products in the French market.I am trying to do so.Cobetus integrates products, services, and technology into a single platform and provides the optimal solution and insights that customers need for work through this platform.Cobetus is passionate for animal well -being and animal care professionals, and is leading the development of the animal drug industry.Cobetus is headquartered in Portland, Maine, USA, and more than 6,000 employees offer services to more than 100,000 customers worldwide.Details can be found on the website.
+
+- Website: https://covetrus.com/
