@@ -1,0 +1,16 @@
+---
+title: "Cultural Heritage Administration, Jeonju -si Natural Monument Animal Preservation Convention"
+datePublished: Thu Dec 17 2020 19:32:38 GMT+0000 (Coordinated Universal Time)
+cuid: cm74m1law000708l81bdogvx8
+slug: en-677-cultural-heritage-administration-jeonju-si-natural-monument-animal-preservation-convention
+
+---
+
+
+- Animal eco -friendly breeding with permanent disorders, 12.17 non -face -to -face agreements
+
+Natural Monument Animal Conservation Center
+
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1739527975825/f6522df8-f907-4ba4-a725-d8c5a5c4eb0f.jpeg)
+
+The Cultural Heritage Administration (Chung Jae -sook) signed a business agreement with Jeonju -si (mayor Kim Seung -soo) to build a natural monument animal preservation center on the 17th.Natural Monument Animal Conservation Center refers to a breeding facility to preserve natural monuments with permanent disorders in accidents such as climate change, animal lane accident (road kills), and bird collisions.The agreement was promoted for smooth operation and management of natural monument animal preservation centers at Jeonju Zoo.*Conservation Center Facility Establishment and Operation: In the second half of 2021, the Cultural Heritage Administration has designated a general animal hospital and a wildlife rescue center as a 'natural monument animal therapy' (203 nationwide) for the structure and treatment of the distressed natural monument animals.It has been supporting the cost of treatment.Through this, more than 6,000 natural monument animals have been rescued in the past five years, and 45.8%of them have been cured to nature.However, if there is a disorder that is impossible to radiate natural radiation, or if it is difficult to survive, euthanasia (13.4%) has been inevitable.As a result, there has been a constant problem in the protection of natural monuments, animal welfare, and bioethics, and the natural monument animal preservation center is a facility introduced to improve this problem.If the Natural Monument Animal Conservation Center is established with the Jeonju City Convention with the Cultural Heritage Administration, it can be raised in a better environment of permanent disorders in a better environment, which greatly contributes to life ethics and improvement of animal welfare, and natural heritage coexists and spreads healthy in everyday life.It is expected to be an opportunity to be.Natural Monument Animal Conservation Center plans to create an eco -friendly space near the wild so that it is not stressed by a closed space in consideration of the characteristics of the animal.In addition, a separate program will be operated to raise the awareness of animal lane accidents and birds, and will try to shift the public's perception of human behavior on nature.The Cultural Heritage Administration plans to expand the construction of natural monuments in large zoos throughout the country, starting with Jeonju Zoo.The cooperation, which began with the government's innovation and active administration, will do its best to be a successful example of contributing to the protection of natural heritage, bioethics and animal welfare.
