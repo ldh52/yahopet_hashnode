@@ -3,6 +3,9 @@ title: "안전한 산책의 시작, 일본 기업이 개발한 특별한 반려�
 datePublished: Fri Feb 14 2025 12:37:05 GMT+0000 (Coordinated Universal Time)
 cuid: cm747ymdl000a08lba3h44ypn
 slug: 6992
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739504391197/96202b90-9927-4e8c-86f3-3c2b84a62c3d.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739504455946/6cce96a6-fd13-417b-abdd-0e2d17a40be5.webp
+tags: 7ikw7lgf, 7j2867o4
 
 ---
 
