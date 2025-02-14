@@ -1,8 +1,13 @@
 ---
 title: "경기도의회, 전국 최초 동물교감활동 활성화 지원 조례안 상임위 통과"
+seoTitle: "경기도의회, 전국 최초 동물교감활동 활성화 지원 조례안 상임위 통과"
+seoDescription: "경기도의회 정윤경 부의장(더불어민주당, 군포1)이 대표발의한 「경기도 동물교감활동 활성화 지원 조례안」이 13일 제382회 임시회 농정해양위원회에서 원안 가결되었다. 이 조례안은 전국 최초로 동물교감활동 활성화를 지원하는 내용을 담고 있으며, 20명의 의원이 공동발의했다."
 datePublished: Fri Feb 14 2025 11:23:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm745kdnj000c09jrd4k39dik
 slug: 6987
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/73flblFUksY/upload/d0cff487af75d11a95846eea66766a0c.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739500408335/79f6e08b-02d6-49ea-9f86-3594be1805b5.webp
+tags: 64z66y86rwq6rcq7lmy7jyg
 
 ---
 
