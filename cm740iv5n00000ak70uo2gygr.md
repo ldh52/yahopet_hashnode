@@ -1,8 +1,13 @@
 ---
 title: "한국레노버, 현대백화점 문화센터서 레노버 키즈 디지털 드로잉 클래스 진행"
+seoTitle: "한국레노버, 현대백화점 문화센터서 레노버 키즈 디지털 드로잉 클래스 진행"
+seoDescription: "한국레노버가 어린이들에게 특별한 시간을 선사하기 위해 ‘레노버와 함께하는 키즈 디지털 드로잉 클래스’를 현대백화점 문화센터에서 진행한다."
 datePublished: Fri Feb 14 2025 08:50:43 GMT+0000 (Coordinated Universal Time)
 cuid: cm740iv5n00000ak70uo2gygr
 slug: 6983
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739492087369/df7b35b9-2e96-43f6-9436-80e324f1ccc4.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739492104217/d2afebed-c88f-4b6d-a798-b245542b53d0.webp
+tags: 64z66y87jwe7yq4, 7isc7jq4
 
 ---
 
