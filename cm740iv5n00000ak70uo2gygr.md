@@ -5,7 +5,7 @@ seoDescription: "한국레노버가 어린이들에게 특별한 시간을 선�
 datePublished: Fri Feb 14 2025 08:50:43 GMT+0000 (Coordinated Universal Time)
 cuid: cm740iv5n00000ak70uo2gygr
 slug: 6983
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RwCP91RwZeM/upload/1f1d1c12c1742fd85ad78e9b69785585.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Bg14l3hSAsA/upload/1c64277bd4cb5a3f7c61fd74e585dedc.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739492104217/d2afebed-c88f-4b6d-a798-b245542b53d0.webp
 tags: 64z66y87jwe7yq4, 7isc7jq4
 
